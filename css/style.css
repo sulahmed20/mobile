@@ -23,6 +23,7 @@ h2{
 
 h3{
     font-size: 30px;
+    text-align: center;
 }
 
 .home{
@@ -36,11 +37,10 @@ width: 100%;
 }
 
 nav ul{
-  list-style-type: none;
+  background-color: #3f3f3f;
   margin: 0 auto;
   padding: 0;
   overflow: hidden;
-  background-color: #3f3f3f;
 }
 
 nav a{
@@ -126,7 +126,7 @@ footer{
   color: white;
   background-color: #333;
   font-size: 16px;
-  text-align: left;
+  text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
 
